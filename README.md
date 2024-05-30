@@ -10,6 +10,11 @@ Module 6 )  Self Evaluation, LinkedIn Profile and Resume Builder
 PPT Link : https://docs.google.com/presentation/d/1ZqrNU0y10tMuf5e17DslwbqRAuY0eAuw/edit?usp=drive_link&ouid=114442201199023056944&rtpof=true&sd=true
 
 # Module 2  Technology
-First video : https://youtube.com/shorts/k9jFJ6cwmpU
+First video  : https://youtube.com/shorts/k9jFJ6cwmpU
 second video : https://youtube.com/shorts/dTaHjdOLtCU
-Third video : https://youtube.com/shorts/JPf0HvSV4mw
+Third video  : https://youtube.com/shorts/JPf0HvSV4mw
+
+# module 4 HR Questions
+First video  : https://youtube.com/shorts/DL3PLB8SOlA
+Second video : https://youtube.com/shorts/hzH1z2PR33I
+Third video  : https://youtube.com/shorts/0i15HWPaeCw
